@@ -1,0 +1,5 @@
+responsive layout explain:-
+for FLEX-LAYOUT:-
+For Mobile Device layout: min-width->576px, if the below of 576 ? will not be the Mobile Device.
+
+For LG Device layout: min-width 1024px,if below or under 1024 ? there will be no longer LG(large) Device.
