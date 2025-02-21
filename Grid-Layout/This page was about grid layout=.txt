@@ -1,0 +1,5 @@
+This page was about grid layout=
+Grid-Template-column-> normally 12 tar besi lage na..
+Grid-colums-start/end(that means cloum er span k bujai) ->always child_div e dite hoy...ei column_span emon ekta item/tag ja sometimes 2ta column er jaiga dokhol kore abar sometimes 3ta column-item er jaiga dokhol kore.
+
+Grid-row-start/end->(that means row er span k bujai)->always child div e dite hoy.. baki kaj colums start/end er motoi kaj kore..
