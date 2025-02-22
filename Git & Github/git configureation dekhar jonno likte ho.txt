@@ -1,0 +1,17 @@
+git configureation dekhar jonno likte hobe cmd-te gia=>
+git config -l then hit "enter"button
+
+New git er allternative option holo "Git Hub Desktop Application" eitar maddomew kora jai.. youtube a gia search dilei bujte parve...
+
+=>?collaborators system=>Topic=>
+1ta github project a r-ek-jon k add korte hole tak collaborators korte hobe => so collaborators er process holo =>
+1st github-er settings e gia collaborators option a click korte hobe then
+2nd.then "Add People" a click korte hobe then
+3rd. "Add People" gia (userName or email )dia select collaborators a click korte hobe,clik korlei ekta inviteation pabe email er maddome
+4th. ekta invite link jabe tar email a , jak invite korbo then accept korlei hoy jabe .
+
+=>?Project-a Invite/collaborators korar=>another system=>
+1st. prothom kaj holo tak collaborators system a invite kore dibo,
+2nd. Then code option a click kore https.github link ta coppy korbe,
+3rd.coppy link ta vs code terminal a ->git colone space then coppy link paste kore dite hobe,Then project a clone hoye jabe,
+4th.Then
